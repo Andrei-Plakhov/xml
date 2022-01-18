@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Структура_баг-репорта>
+<structure>
   <problem>Краткое_описание_проблемы</problem>
   <products>Продукт</products>
   <platform>Платформа</platform>
@@ -11,4 +11,4 @@
   <actual_result>Фактический_результат</actual_result>
   <expected_result>Ожидаемый_результат</expected_result>
   <file>Прикрепленные_файлы</file>
-  </Структура баг-репорта>
+  </structure>
